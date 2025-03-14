@@ -21,7 +21,12 @@ Currently, contributions are **not open** unless a specific project is publicly 
 If a project is set to public and open for collaboration, guidelines will be provided within that repository.
 
 ## License
-This repository and its contents are licensed under a **Non-Commercial License**. Commercial use is **not permitted**.
+This repository and its contents are licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. This means:
+You are free to share, copy, distribute, and adapt the material, but only for non-commercial purposes.
+Attribution is required – you must give appropriate credit to the author.
+You cannot use the material for commercial purposes.
+For full license details, see:
+[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Contact
 If you would like to get in touch, feel free to contact me via:
@@ -31,5 +36,4 @@ If you would like to get in touch, feel free to contact me via:
 
 ---
 Stay tuned for more updates and developments in the FlairGeniX repository! 🚀
-
 
